@@ -1,9 +1,11 @@
 # VueComponents
 
+* 倒计时验证码按钮,防浏览器刷新
+
 ## Components
 
 ### 1.TimerBtn.vue
-  倒计时验证码按钮,防刷新
+  
   
 ### usage
 ```html
