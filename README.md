@@ -1,10 +1,11 @@
 # VueComponents
 
+## Components
 
-# TimerBtn.vue
+### 1.TimerBtn.vue
   倒计时验证码按钮,防刷新
   
-## usage
+### usage
 ```html
   <el-form-item prop="securityCode">
             <el-input style="width: 62%" type="text" v-model="ruleForm2.securityCode" auto-complete="off" placeholder="验证码"></el-input>
